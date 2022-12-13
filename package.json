@@ -1,0 +1,20 @@
+{
+  "name": "codespaces-learning-auth",
+  "version": "1.0.0",
+  "description": "an auth system totally designed in codespaces",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chandra-mohan31/Codespaces-learning-auth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chandra-mohan31/Codespaces-learning-auth/issues"
+  },
+  "homepage": "https://github.com/Chandra-mohan31/Codespaces-learning-auth#readme"
+}
